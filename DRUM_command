@@ -1,1 +1,0 @@
-irun DRUM_TESTBED_example.v -define RTL -debug -notimingchecks
